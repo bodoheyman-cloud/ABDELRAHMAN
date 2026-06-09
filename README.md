@@ -1,2 +1,0 @@
-# ABDELRAHMAN
-Snake game
